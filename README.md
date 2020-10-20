@@ -1,5 +1,5 @@
 # simple-ATM-controller
-- build and run
+- Build and Run
   ```
   cd simple-ATM-controller
   g++ -std=c++11 -O1 main.cpp -o solution
